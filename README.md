@@ -50,7 +50,7 @@ Notes:
 
 Create/modify network config in `hardhat.config.ts` and add API key and private key, then run:
 
-`npx hardhat run --network rinkeby scripts/deploy.ts`
+`npx hardhat run --network localhost scripts/deploy.ts`
 
 ### Verify on Etherscan
 
